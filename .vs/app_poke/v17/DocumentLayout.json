@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\plata\\source\\repos\\app_poke\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0B3E7C-CF24-448D-994D-E8363CBCC004}|app_poke\\app_poke.csproj|c:\\users\\plata\\source\\repos\\app_poke\\app_poke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0B3E7C-CF24-448D-994D-E8363CBCC004}|app_poke\\app_poke.csproj|solutionrelative:app_poke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0B3E7C-CF24-448D-994D-E8363CBCC004}|app_poke\\app_poke.csproj|c:\\users\\plata\\source\\repos\\app_poke\\app_poke\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0B3E7C-CF24-448D-994D-E8363CBCC004}|app_poke\\app_poke.csproj|solutionrelative:app_poke\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0B3E7C-CF24-448D-994D-E8363CBCC004}|app_poke\\app_poke.csproj|c:\\users\\plata\\source\\repos\\app_poke\\app_poke\\service\\pokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0B3E7C-CF24-448D-994D-E8363CBCC004}|app_poke\\app_poke.csproj|solutionrelative:app_poke\\service\\pokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0B3E7C-CF24-448D-994D-E8363CBCC004}|app_poke\\app_poke.csproj|c:\\users\\plata\\source\\repos\\app_poke\\app_poke\\models\\pokemon\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0B3E7C-CF24-448D-994D-E8363CBCC004}|app_poke\\app_poke.csproj|solutionrelative:app_poke\\models\\pokemon\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0B3E7C-CF24-448D-994D-E8363CBCC004}|app_poke\\app_poke.csproj|c:\\users\\plata\\source\\repos\\app_poke\\app_poke\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E0B3E7C-CF24-448D-994D-E8363CBCC004}|app_poke\\app_poke.csproj|solutionrelative:app_poke\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0B3E7C-CF24-448D-994D-E8363CBCC004}|app_poke\\app_poke.csproj|c:\\users\\plata\\source\\repos\\app_poke\\app_poke\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E0B3E7C-CF24-448D-994D-E8363CBCC004}|app_poke\\app_poke.csproj|solutionrelative:app_poke\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\plata\\source\\repos\\app_poke\\app_poke\\Program.cs",
+              "RelativeDocumentMoniker": "app_poke\\Program.cs",
+              "ToolTip": "C:\\Users\\plata\\source\\repos\\app_poke\\app_poke\\Program.cs",
+              "RelativeToolTip": "app_poke\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:35:38.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokemonService.cs",
+              "DocumentMoniker": "C:\\Users\\plata\\source\\repos\\app_poke\\app_poke\\Service\\PokemonService.cs",
+              "RelativeDocumentMoniker": "app_poke\\Service\\PokemonService.cs",
+              "ToolTip": "C:\\Users\\plata\\source\\repos\\app_poke\\app_poke\\Service\\PokemonService.cs",
+              "RelativeToolTip": "app_poke\\Service\\PokemonService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:30:10.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\plata\\source\\repos\\app_poke\\app_poke\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "app_poke\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\plata\\source\\repos\\app_poke\\app_poke\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "app_poke\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T22:51:01.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\plata\\source\\repos\\app_poke\\app_poke\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "app_poke\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\plata\\source\\repos\\app_poke\\app_poke\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "app_poke\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T22:30:18.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\plata\\source\\repos\\app_poke\\app_poke\\Models\\Pokemon\\Pokemon.cs",
+              "RelativeDocumentMoniker": "app_poke\\Models\\Pokemon\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\plata\\source\\repos\\app_poke\\app_poke\\Models\\Pokemon\\Pokemon.cs",
+              "RelativeToolTip": "app_poke\\Models\\Pokemon\\Pokemon.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvxEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T23:06:48.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\plata\\source\\repos\\app_poke\\app_poke\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "app_poke\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\plata\\source\\repos\\app_poke\\app_poke\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "app_poke\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAwMoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T22:29:57.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
